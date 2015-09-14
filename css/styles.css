@@ -1,0 +1,12 @@
+#show-country {
+  display: none;
+}
+
+.country {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.country:hover {
+  text-decoration: underline;
+}
